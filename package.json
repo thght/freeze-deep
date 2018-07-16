@@ -1,0 +1,35 @@
+{
+  "name": "freeze-deep",
+  "version": "0.1.0",
+  "description": "A fast and type safe recursive (deep) object/array/function freeze",
+  "main": "freeze-deep.min.js",
+  "dependencies": {},
+  "devDependencies": {
+    "jasmine": "^3.1.0",
+    "speed.js": "^0.1.4"
+  },
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thght/freeze-deep"
+  },
+  "keywords": [
+    "fast",
+    "type",
+    "safe",
+    "recursive",
+    "deep",
+    "object",
+    "array",
+    "function",
+    "freeze"
+  ],
+  "author": "Dennis Raymondo van der Sluis <thght4all@gmail.com> (https://github.com/thght/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thght/freeze-deep/issues"
+  },
+  "homepage": "https://github.com/thght/freeze-deep"
+}
