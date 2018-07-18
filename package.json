@@ -1,6 +1,6 @@
 {
   "name": "freeze-deep",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A fast and type safe recursive (deep) object/array/function freeze",
   "main": "freeze-deep.min.js",
   "dependencies": {},

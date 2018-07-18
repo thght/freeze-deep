@@ -33,8 +33,6 @@ console.log( MODEL.person.friends[0] );
 // no runtime error on undefined or null
 freezeDeep();
 freezeDeep( null );
-
-// etc..
 ```
 
 ---
